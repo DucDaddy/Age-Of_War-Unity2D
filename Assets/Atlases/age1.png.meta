@@ -1,0 +1,6372 @@
+fileFormatVersion: 2
+guid: 2540a6b80d5821a4bbf69945a4b8235d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: age1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1985
+        width: 271
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6826568, y: 0.84745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad075f6ccbf3bc4a80d6dd196d8a3e4
+      internalID: -522348645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1985
+        width: 271
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6863469, y: 0.86885244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e58041e376404a87928ba770c046b
+      internalID: 1050637630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1986
+        width: 271
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6826568, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc03f0a51bd1d248a0dcb60b240f9c3
+      internalID: 697040478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1986
+        width: 271
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6624346, y: 1.2506714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb69ccbc3a4b445aeabcac4e26b7f0
+      internalID: 1461840310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1986
+        width: 271
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6714385, y: 1.1020019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c113def46ccc014099ef66e2f82fcb4
+      internalID: 1422918133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_10
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1969
+        width: 268
+        height: 77
+      alignment: 9
+      pivot: {x: 0.60686433, y: 0.816105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7256450a7342b0449bad1ff85cd560ee
+      internalID: 1785037156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_11
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1949
+        width: 267
+        height: 97
+      alignment: 9
+      pivot: {x: 0.61797756, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae89e233e9ab564bac5999211336916
+      internalID: 540522567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_12
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 2021
+        width: 105
+        height: 25
+      alignment: 9
+      pivot: {x: 0.76643765, y: 2.7819726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f39df86e269c4dab4703d1c35fd93
+      internalID: 524830460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1960
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57487adfd84e874eae53a5e50ce3f9c
+      internalID: -2093492758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1862
+        width: 224
+        height: 121
+      alignment: 9
+      pivot: {x: 0.52660656, y: 0.45983383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ce56407956c234f9a648aaee92ae27
+      internalID: -664812316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1859
+        width: 212
+        height: 125
+      alignment: 9
+      pivot: {x: 0.33735946, y: 0.40544042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102fd2751f749d43a1f9f31358df712
+      internalID: 391971320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1906
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebe4d5f662f00240a57706a78ba56e4
+      internalID: 542072465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1875
+        width: 249
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5968373, y: 0.4878691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55abe5234c19c784bb453de882863f46
+      internalID: 617105674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1859
+        width: 206
+        height: 125
+      alignment: 9
+      pivot: {x: 0.3443722, y: 0.41445997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1160777d67ecf34cbba5c9462ddd086
+      internalID: -713505484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_19
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1858
+        width: 197
+        height: 126
+      alignment: 9
+      pivot: {x: 0.36739942, y: 0.40276325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7e1e570809554d8a7b88d522e4686
+      internalID: -769554069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1877
+        width: 87
+        height: 107
+      alignment: 9
+      pivot: {x: 0.16866188, y: 0.3975488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778363b2ed63a5644b089b4d5d0c744c
+      internalID: 588192116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_21
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1906
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be567502eb41eb54a9d2ea88e1816b27
+      internalID: -2092450491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_24
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1969
+        width: 100
+        height: 50
+      alignment: 9
+      pivot: {x: 0.77427614, y: 1.1143775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d55c571b00acd4c9940880dbd34367
+      internalID: -1718009620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1845
+        width: 90
+        height: 59
+      alignment: 9
+      pivot: {x: 0.8291314, y: 0.94627666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71c4ae36788e144938ea3b91cd203d
+      internalID: -2024640865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_28
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1828
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879d9cd76786d64dbe2ed2ef6d79f5e
+      internalID: -1016798717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1842
+        width: 193
+        height: 125
+      alignment: 9
+      pivot: {x: 0.39378238, y: 0.40800002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5023266a995274985401de225efc33
+      internalID: -601312939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_30
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1882
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4e05b9e2c9dc4fb9854846b4553a2
+      internalID: -1167272377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_31
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1827
+        width: 179
+        height: 120
+      alignment: 9
+      pivot: {x: 0.41340715, y: 0.39001364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f09f5cc90ff04aaade76032c3be94
+      internalID: 1678272346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_32
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1888
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c90013ce414f40956d5c2af7d4b53
+      internalID: -1756705454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_33
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1874
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168365e618300794d9e8eb8ece72e279
+      internalID: -1682175615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1731
+        width: 211
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48720282, y: 0.48465133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668cb5e364877746bc4b8de6ee133f4
+      internalID: -657092284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1729
+        width: 209
+        height: 127
+      alignment: 9
+      pivot: {x: 0.482104, y: 0.49795365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a5edd837ae1147a71b5aa9c21c27d
+      internalID: 1450285833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1768
+        width: 89
+        height: 75
+      alignment: 9
+      pivot: {x: 0.21312723, y: 0.58170086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd43b78b42773b479d663a0c7e0ce52
+      internalID: -1167488590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1748
+        width: 202
+        height: 125
+      alignment: 9
+      pivot: {x: 0.34653464, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbe2bc12e7806448c2268f2c7d5d2c
+      internalID: -1913926132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_40
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1776
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d2cecad6cf084e82bb4bdeb0e1128
+      internalID: 1710231194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_41
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1741
+        width: 195
+        height: 116
+      alignment: 9
+      pivot: {x: 0.44092172, y: 0.51241326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c562423609fac44a81731f7f276ebb
+      internalID: 1647168041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_42
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1729
+        width: 191
+        height: 127
+      alignment: 9
+      pivot: {x: 0.38219896, y: 0.42519686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750195d7d9ba6e499e06107a33ef5ec
+      internalID: -815135917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_43
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1799
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f4319389a5294989742b3086b9f6b
+      internalID: 439747774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_44
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1712
+        width: 177
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4124294, y: 0.3984375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901e6d71af480749acf1d42d653b941
+      internalID: 743504744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_45
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1802
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4227824d66f804649b249be2b2743ac6
+      internalID: -877708612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_46
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1696
+        width: 178
+        height: 129
+      alignment: 9
+      pivot: {x: 0.41011235, y: 0.4108527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3467ed3cc23e458d33b1912c3d914
+      internalID: 889884913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_47
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1757
+        width: 177
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4180791, y: 0.3875969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a292da0898d5848b7b4e593a791657
+      internalID: -1519200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_48
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1778
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412408ad8f77804c8556d0db8a78dfc
+      internalID: 205430984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1604
+        width: 209
+        height: 125
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.42400002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557692d51bc4f2541874426beaaff5c5
+      internalID: 1073586627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1602
+        width: 202
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46569204, y: 0.50522166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc63b1cda17bd1948bb5a06adb1da686
+      internalID: 1702888292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1689
+        width: 88
+        height: 77
+      alignment: 9
+      pivot: {x: 0.24976939, y: 0.5743519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a020aa0603ed341ac8c05e2ba83541
+      internalID: 1432700161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_52
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1619
+        width: 194
+        height: 127
+      alignment: 9
+      pivot: {x: 0.37033552, y: 0.4162021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b314c7d30898340a512041a176ee8c
+      internalID: -1211631937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_53
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1677
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d83e8eab0dcd4693f80f9a05b9585
+      internalID: -1629494192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_54
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1612
+        width: 189
+        height: 127
+      alignment: 9
+      pivot: {x: 0.3975601, y: 0.4174228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0fd5a80400654a85eacf38f977883
+      internalID: -32206649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_55
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1598
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a5a076ab111643bed5252570b5372
+      internalID: 1488723601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_56
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1669
+        width: 173
+        height: 128
+      alignment: 9
+      pivot: {x: 0.42774564, y: 0.421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e3ee7c06476f4e98e685960af46f3
+      internalID: 873435377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_57
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1719
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8745250804ac14788d541f06ac0280
+      internalID: 217888175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_58
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1626
+        width: 178
+        height: 129
+      alignment: 9
+      pivot: {x: 0.41573033, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c77dff248f6c4b82075f7bff51ed1
+      internalID: 811454257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_59
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1690
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77363e4387b62d24ba2904e823231b5c
+      internalID: -1599396738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_60
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1612
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a744736b7ea54da1963da1f272428
+      internalID: -1751321958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_61
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1617
+        width: 84
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8252738, y: 1.2360713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4075a31e40674ab5889693e1a0738
+      internalID: -1192204722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_62
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1538
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590c8e3e84c7d74dafe3136a569477c
+      internalID: -1211574799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_63
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1587
+        width: 177
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e17239543772147b7e5ea8068f8886
+      internalID: -338303914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_64
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1638
+        width: 79
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5509682, y: 0.6189212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184f00d8548bd1942bf6b5579399d648
+      internalID: 603426155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_65
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1572
+        width: 177
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cd33f7dbb32843ab2681f7eaf8414
+      internalID: -762111220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_66
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1602
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd90a5f8777a845af3cdf1ee65b4f6
+      internalID: 104321965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1476
+        width: 200
+        height: 126
+      alignment: 9
+      pivot: {x: 0.38, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f57136499cc8f4d88cf6461efd04ee
+      internalID: -1798275524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1482
+        width: 186
+        height: 118
+      alignment: 9
+      pivot: {x: 0.40552315, y: 0.47902563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec2f10ac5dbd646bf22b1cb6700ca2
+      internalID: -2044182931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_69
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1586
+        width: 87
+        height: 24
+      alignment: 9
+      pivot: {x: 0.90238583, y: 2.8480632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab854759ef025048a1aaf45de01f20d
+      internalID: 726788410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1490
+        width: 185
+        height: 127
+      alignment: 9
+      pivot: {x: 0.39540586, y: 0.40858376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ebf5430d4df9498a8f22d68a35bd6
+      internalID: -986834630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_71
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1564
+        width: 85
+        height: 51
+      alignment: 9
+      pivot: {x: 0.89176315, y: 1.554745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8528ad43a48fa4d9ac7ca6333be1aa
+      internalID: -867946766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_72
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1481
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd0177159d75e49b0d48d31198e6c8
+      internalID: 165186817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_73
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1468
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefd338c8fbaa6449a5bbd4f9650c4d
+      internalID: -1865861402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_74
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1564
+        width: 78
+        height: 72
+      alignment: 9
+      pivot: {x: 0.61184615, y: 0.6677687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ee285ef2d1b44685d24069d307249
+      internalID: -369636703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_75
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1504
+        width: 178
+        height: 120
+      alignment: 9
+      pivot: {x: 0.39902043, y: 0.44008484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677473fa9e25f34aa100c482b9c847d
+      internalID: 1382976557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_76
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1514
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff578d2833a194e8a23383470bf705
+      internalID: -651246231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_77
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1505
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5034859abe9b44a79a80d0aeb1aae
+      internalID: -380241874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_78
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1541
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e403dc0e5a8f6449aee9805e81a521d
+      internalID: -1671937715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1498
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadda420343271c469f3e5ff3b83b756
+      internalID: 305782285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_80
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1464
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f11d0bd1a6c74ab3f63c4429fc84e
+      internalID: -1785171609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_81
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1457
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbcdbb6a4370e43bd662252cde8df3
+      internalID: -678091317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_82
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1490
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.68373746, y: 0.7846137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07ed37c13e7bc4288c1dd38206bec9
+      internalID: 904365040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_83
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1441
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b246a11d0fd32b478584b0b2f967bc8
+      internalID: 229739911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1353
+        width: 181
+        height: 121
+      alignment: 9
+      pivot: {x: 0.38563457, y: 0.43967003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48a9559eaca8b4ba358dca844db009
+      internalID: 1322590515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_85
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1352
+        width: 182
+        height: 128
+      alignment: 9
+      pivot: {x: 0.40431347, y: 0.41685677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583dc89da50718948a5b7d9973e4c390
+      internalID: 820696508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1437
+        width: 80
+        height: 66
+      alignment: 9
+      pivot: {x: 0.8154179, y: 0.7825854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22a25b9dd9ce94690e820e1eb63e2a
+      internalID: 1662389174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_87
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1411
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c13a5af2bf7e34cbae65527b431339
+      internalID: 677142976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_88
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1359
+        width: 175
+        height: 129
+      alignment: 9
+      pivot: {x: 0.42812884, y: 0.40250084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627018c62ae849488cafc38c77cec59
+      internalID: -563164750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_89
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1387
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b9372f1e8f8246aad140b9b790c7e
+      internalID: 337201082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_90
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1351
+        width: 175
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41846d3b5d8178947970503f0b0318e4
+      internalID: -2142202190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_91
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1338
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74b18ac8b568643a6809045a1195bf
+      internalID: -1690457907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_92
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1408
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f896962d80b274b8d32986ec22ca70
+      internalID: -1186651523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_93
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1451
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7512e011b10fb4468d3ce0a7600c999
+      internalID: -2121909580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_94
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1327
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600258a2b9e8db47b1d3e2967d74b18
+      internalID: -107775048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_95
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1421
+        width: 79
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7485861, y: 0.85682976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b772e62cea07f4ca87a28fcaa99eec
+      internalID: 1411790804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_96
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1373
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba717fac2483be046be60805d708e626
+      internalID: -484583602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_97
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1426
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d353b4b8029c4bace5ead98e64a4c
+      internalID: 1703915623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_98
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1370
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e449c5e1b91dc45b88c1c10239a5eb
+      internalID: -1685327501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_99
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1320
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c80e7881bc6c44a360bc7ca17589c
+      internalID: 1088489629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_100
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1287
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5212d4c06a96438f0b6ea6e907e37
+      internalID: -394193342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_101
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1278
+        width: 176
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8dda9607a79146afa9bcb87fc1008
+      internalID: -183239083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_102
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1364
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b751407bfa57e41a51e7eacc90cb31
+      internalID: 314646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_103
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1333
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee83ec5ba06614186e24ec00ff8970
+      internalID: 565664084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_104
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1312
+        width: 176
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b63910f47ff364aa22f9dd2b483932
+      internalID: -1744539812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_105
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1246
+        width: 177
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699dbc9008afa94ea847c1b68a7aa7c
+      internalID: 1029657627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_106
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1335
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2e82418e89c84386a3ab4d0aa79f8
+      internalID: 1207111008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1223
+        width: 179
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4134078, y: 0.4140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeda44c4adb3b5d4f810df5d791ccb41
+      internalID: 1562835068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_108
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1221
+        width: 175
+        height: 129
+      alignment: 9
+      pivot: {x: 0.42304286, y: 0.40984586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380762149c4897e478c9a8a2428e145f
+      internalID: -1066135303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_109
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1270
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fcc1582f96d6458a959b18d37f055
+      internalID: 1749201285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1225
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787edaa8048d315448b6ae8a27038ac8
+      internalID: 660171629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_111
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1229
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41471332, y: 0.40560722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206619ab51d06b418f5150823a924c1
+      internalID: 2116444773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_112
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1200
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e77a09293d62a4abf4d50c2b5fd3d2
+      internalID: -2126601796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_113
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1221
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f983a361b350fe468cf51d8923f16ed
+      internalID: -1113005529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_114
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1208
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b32c85f7fd6294dabf9b896ca287ee
+      internalID: 540520164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_115
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1276
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605360ea4a0c8204e90f233cc6d54548
+      internalID: 1821761824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_116
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1197
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80973ede4e0bf348a74744aff7431ee
+      internalID: -1460051953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_117
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1251
+        width: 68
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6067038, y: 0.61013335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c01c3bba9c0714889a9d9d930e7c79
+      internalID: -1835794528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_118
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1185
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d5fc110967b6e49816f26a2104e051
+      internalID: -1986822163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_119
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1247
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c18bba11ad3f84abc419d534e7fea8
+      internalID: -663963196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1093
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41714284, y: 0.4296875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e612654b69d2f94bbe6bcb86bff8d05
+      internalID: -614102504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1091
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41714284, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a705d20b1898dad42a6b8d6a58859bf4
+      internalID: 939351476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_122
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1191
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ea4222a6348448a9d5b2866142eb1
+      internalID: 1445730059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_123
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1183
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa3980dffd40948a3ef54336231459
+      internalID: 1364753609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1137
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fd9fe75ef2534196388f5c9358ed3
+      internalID: -1038299015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_125
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1099
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41115952, y: 0.41115952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f036f31263d246be7d05ed07fc12f
+      internalID: -525485314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_126
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1114
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32dc8cd9a5920242895a55bf252a7c4
+      internalID: 757034085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_127
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1091
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8344c1a765d7f194e85c27e92e4c8008
+      internalID: -455224390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_128
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1077
+        width: 175
+        height: 129
+      alignment: 9
+      pivot: {x: 0.40659076, y: 0.39532045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ebf378d8758240b99e3705b225fce
+      internalID: -405431133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_129
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1149
+        width: 175
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eacb11bee7a33409602cf241b8bef5
+      internalID: 446082361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_130
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1188
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a96f6b2d4f5ee4597f025bcaf5dea0
+      internalID: -1028107523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_131
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1066
+        width: 175
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedda3727b34445448d054c73ef6d61b
+      internalID: -299295444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_132
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1165
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200416358fcb78d49a3bce158456f81a
+      internalID: -730389377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_133
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1116
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d975983b9f554fbf877baf2083fd3
+      internalID: -277924268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_134
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1177
+        width: 77
+        height: 68
+      alignment: 9
+      pivot: {x: 0.73896295, y: 0.7435303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1789ea29ca86540904832420aa9d1f
+      internalID: 1227108070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_135
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1113
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b31b2df9fa3fd478b8a4918a92c922
+      internalID: 1477536617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_136
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1095
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899263e5c60265549817c7b522f5a952
+      internalID: 1327129419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_137
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1048
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c57d376f3e19140b3d0a5729b4e78f
+      internalID: 1745949754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_138
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1019
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.40252998, y: 0.38895035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ade72c0b9e9945ab99b35a88c4c75
+      internalID: 221563829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_139
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1100
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc2310e22312f4d824d3c6cf442bf7
+      internalID: 196950956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_140
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1078
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc98844712b65947acb358bef321d6a
+      internalID: -619941358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_141
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1052
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d07699204fc194f8f8a21a033eb8f9
+      internalID: -447050875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_142
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1089
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f385e6d951aca4449a1cfd97df85b21e
+      internalID: -468565658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_143
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1090
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c607e5695d0a4fad3ff5125448c34
+      internalID: -408234695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 963
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41477275, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015ba9d43221f58408070c2ab4937318
+      internalID: 1520007328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 961
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.42613637, y: 0.390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0382792d7d484e93a488a67e5241f
+      internalID: -611230083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_146
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1028
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122ea15b1b4c9e40808ab30a9284604
+      internalID: 1760360127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_147
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1008
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7f5ec5311e5043b9848b1d1dc9190
+      internalID: -92664892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_148
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 960
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b575b33bdefea48bf80297bba34082
+      internalID: -2108926345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_149
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 970
+        width: 175
+        height: 127
+      alignment: 9
+      pivot: {x: 0.41959158, y: 0.40599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7deb3526262c54091d39fc102d1359
+      internalID: 1103778397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_150
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1027
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a3ff84149f394e8ac3389b9f45396
+      internalID: -315520499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_151
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 960
+        width: 174
+        height: 129
+      alignment: 9
+      pivot: {x: 0.40605357, y: 0.40633848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35931d80845e1f4489556d3a53d2b463
+      internalID: -743727270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_152
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 948
+        width: 175
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784dfdef570818a41ba467b0524cc59b
+      internalID: -774237154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_153
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1012
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36137f42655f444bb97c4cd11a0ceb2
+      internalID: -890461166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_154
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 936
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3984682, y: 0.3889494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0ed6ea8a3eae40b50977fcca32bdf
+      internalID: -1714271985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_155
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 992
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719840a867a5f3479cb9dea672f883a
+      internalID: -580445427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_156
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 965
+        width: 60
+        height: 85
+      alignment: 9
+      pivot: {x: 0.18884073, y: 0.5549137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5363b369e7e3f4c8a2979cae6d44bc
+      internalID: -1059436948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_157
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 965
+        width: 60
+        height: 85
+      alignment: 9
+      pivot: {x: 0.1888387, y: 0.56489617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6ee5abca558f4692adb63661dada1
+      internalID: -1753317151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_158
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 964
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d3e52212b3a84b83fb35f78bdd001
+      internalID: -735596003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_159
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 989
+        width: 159
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48632812, y: 0.3992024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006517a8ee40ec409a1a9d7ff033380
+      internalID: 290478639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_160
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1002
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738c4821c173834facafaf9e372864f
+      internalID: -295411519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_161
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1003
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce3f950cf687545a92b74f7336b984
+      internalID: -1522454161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 833
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41477275, y: 0.421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff424d5ae0c8a5944874bd818a33ff46
+      internalID: -560795503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_163
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 831
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.42045456, y: 0.390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b04b7b5ff93e418bdc0dd74c93204
+      internalID: -1489397042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_164
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 943
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92805031da429f84db3e19a331d56e9e
+      internalID: 1379794866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_165
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 920
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28678257d3fc549a88f24601011ef6
+      internalID: -1747408574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_166
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 873
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a860e147e87404d93a46966d001701
+      internalID: 25491409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_167
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 839
+        width: 175
+        height: 129
+      alignment: 9
+      pivot: {x: 0.39846784, y: 0.40082923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954a994068beea499a74fc6f98a78c9
+      internalID: -1935404066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_168
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 943
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ace8e6ade75c04bb5ac82a62fac63d
+      internalID: 509922477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_169
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 833
+        width: 174
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb7cf3491c3314dbd61a6c9f0b9f06
+      internalID: 1395815136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_170
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 822
+        width: 172
+        height: 125
+      alignment: 9
+      pivot: {x: 0.34084657, y: 0.458938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22ba73616c527647b19fe2f70444b55
+      internalID: -1410144489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_171
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 896
+        width: 175
+        height: 121
+      alignment: 9
+      pivot: {x: 0.37037247, y: 0.41699925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddc1996ccc3184faf72f5f388c715f
+      internalID: -1146351554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_172
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 916
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ee955040a62e4fb53227b7b4d4ddb
+      internalID: 585666851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_173
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 905
+        width: 61
+        height: 85
+      alignment: 9
+      pivot: {x: 0.20273077, y: 0.57111096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef148fbf925e134998d1bb9b4331708
+      internalID: 1189461709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_174
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 877
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a3019e969de541abbfda835ceb78a
+      internalID: -9023070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_175
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 877
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe8f3fe437482409d284fd4a0e59ef
+      internalID: 1608515203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_176
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 877
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbac1a3a8adea648be70ff28a30758f
+      internalID: -1805125816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_177
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 902
+        width: 59
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3854484, y: 0.56116587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f548cd7d84da3499796bcaf1f37813
+      internalID: -110159908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_178
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 904
+        width: 59
+        height: 83
+      alignment: 9
+      pivot: {x: 0.37663656, y: 0.5438482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe51bb866b6eeb4880e5a7a1b7fb46a
+      internalID: -1943050920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_179
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 903
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0d4aa4cd7fda45807378d192c2ad6
+      internalID: 703037643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_180
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 915
+        width: 61
+        height: 85
+      alignment: 9
+      pivot: {x: 0.34658962, y: 0.56728226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18134ff92cbbe7428154faa04f92db2
+      internalID: -1052011094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_181
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 915
+        width: 50
+        height: 86
+      alignment: 9
+      pivot: {x: 0.22966065, y: 0.57254666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e2ecb3ca9b7c4996b0827ca25ad2e
+      internalID: 182275679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_182
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 856
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d649253bb8b27044a8bf6250ca44585
+      internalID: 794249771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_183
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 832
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b1491dd557e0b4598a55a4a020edda
+      internalID: -1475325635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_184
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 760
+        width: 46
+        height: 111
+      alignment: 9
+      pivot: {x: 0.31272224, y: 0.41013536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c042fae3991a5e49aef2ace75c04509
+      internalID: -924583159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_185
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 859
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49d537209e95441b33d0520bfdf70d
+      internalID: 1951840108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_186
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 810
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a494df78f205314c8c188860e87fdfe
+      internalID: 667096586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_187
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 809
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f190540f8a06fea428180e36b6e93c81
+      internalID: 1023022770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_188
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 810
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e6acfce47eca4bbdfe70676cf36f7
+      internalID: 507556643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_189
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 830
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef860f67377c074fb983f237667d67a
+      internalID: -712268512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_190
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 850
+        width: 57
+        height: 84
+      alignment: 9
+      pivot: {x: 0.19834712, y: 0.55117434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec69d39288dad4fb088a5a4f3a9eba
+      internalID: -258065205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_191
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 848
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac1c4408c54d04286955ec04f9b2bd
+      internalID: -1145208306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_192
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 849
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39890b6f07f949a43ab9ebc60f029d59
+      internalID: -1836407192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_193
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 819
+        width: 56
+        height: 84
+      alignment: 9
+      pivot: {x: 0.2037201, y: 0.55809385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaef2690e6ea7f40a2ef5287f4e9087
+      internalID: -193851521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_194
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 815
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.1854269, y: 0.5698881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a297b37c271074eb876cdbf457a8db
+      internalID: 1774682889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_195
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 817
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5867490444eb914f8419d924a20fb89
+      internalID: 1972145599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_196
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 797
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc6fbd5ce3c9a49aef37258edb2ee1
+      internalID: 652565667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_197
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 816
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ad85c6a6740e4dbf2324c7797bdd9
+      internalID: 1499954656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_198
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 816
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698e15965778b446b0094e877564d89
+      internalID: -1313326248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_199
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 703
+        width: 176
+        height: 127
+      alignment: 9
+      pivot: {x: 0.41477275, y: 0.4015748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347d03415d2f64a4e9e18a4c3f8482de
+      internalID: 123256567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_200
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 702
+        width: 174
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41954023, y: 0.3984375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd435b4faa6bc14cab2de1d56ff4885
+      internalID: 1899023027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_201
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 773
+        width: 65
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5298819, y: 0.5779291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a72331c1767684c97f311fe5ab9823
+      internalID: 1423643992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_202
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 745
+        width: 29
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b167a82bfea240815be5e428c1b6b
+      internalID: -697906099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_203
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 710
+        width: 171
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba74bcd98c3ee741a4cef2441c8963b
+      internalID: 1077003555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_204
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 776
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4577197e0d468648b5b5a335d564c5a
+      internalID: 1312488309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_205
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 705
+        width: 166
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777b0bc7c2e11f49916a4b4f4c6a71f
+      internalID: 1389265159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_206
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 737
+        width: 54
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5870045, y: 0.6093817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d716b12601d33f247811d61567bb7a8b
+      internalID: 789920764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_207
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 734
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815a0d050d30bb45bb604dd046f822b
+      internalID: 828837259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_208
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 736
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3bdb7e10785745859318acc446b74
+      internalID: 1838544360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_209
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 721
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee0dc3051330014d8dde8adf1b449a4
+      internalID: 1015600341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_210
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 721
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f970480e9a7f47a2618a817e1db71
+      internalID: 161771027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_211
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 722
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b13fc0afb18f14190bc156f038c0c0
+      internalID: 1442029446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_212
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 722
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eda72da58bf464f9ad4c15804d2308
+      internalID: 255682219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_213
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 742
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db107a9659ec695469ddfa072cd56606
+      internalID: 1911698368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_214
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 764
+        width: 56
+        height: 84
+      alignment: 9
+      pivot: {x: 0.19500515, y: 0.55809313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849e753cd01ae02418799069b426996c
+      internalID: -455426645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_215
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 761
+        width: 55
+        height: 85
+      alignment: 9
+      pivot: {x: 0.20720659, y: 0.55741036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1b2ad6efeb6f4bbf931b21777f40b
+      internalID: 522601115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_216
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 762
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec154779cd7dd9d4c9a99cbbbb12b4d9
+      internalID: -234988131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_217
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 729
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f94609b32b09f44b8546a62c91a841
+      internalID: -1634888580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_218
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 711
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a690a6b95c633f64fafcc320f43b25e6
+      internalID: 2068158219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_219
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 730
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac3acf2b8094c45a737585fbbc298c
+      internalID: 1780264429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_220
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 728
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d4837327eeae34b949a4012922017d
+      internalID: -1518657437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_221
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 573
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41714284, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50299135ef5c4a74d954ba27762e9ff2
+      internalID: -700259023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_222
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 571
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.42285714, y: 0.3984375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a586739cafbc40a537021faa30e07
+      internalID: 745504730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_223
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 685
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5060029c7dcca6d408cf4f822bb7281d
+      internalID: 647180212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_224
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 658
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9c97fd78fde1b408e37664f4bba68d
+      internalID: -1632288155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_225
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 665
+        width: 46
+        height: 93
+      alignment: 9
+      pivot: {x: 0.2399637, y: 0.48486984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e222bbb6dfa0a9f4c8b2b18ca44b2e4f
+      internalID: -1396332659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_226
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 582
+        width: 163
+        height: 126
+      alignment: 9
+      pivot: {x: 0.4587043, y: 0.40841773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38d485547fd224b9389ec82d835df3
+      internalID: -1495156373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_227
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 689
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4e85069e2e7f4a8824ec8b6959937
+      internalID: -844268284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_228
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 617
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b5361e8396b44fa61e02472c0f7cc
+      internalID: -646874720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_229
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 617
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97576448eff7a454cb73ee3a9235fc4a
+      internalID: 1660354798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_230
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 617
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faed589f7581c04792bcf6f02e6449c
+      internalID: 1463992115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_231
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 618
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a9cbf0f09d9e4ca90f7cbe674b2d3
+      internalID: -329512203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_232
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 652
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53cccce168745c4bae1c84b4a623cbd
+      internalID: -1328660845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_233
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 646
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85313457e37f9f7408b0962b855c3ab4
+      internalID: 1414933998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_234
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 651
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bfff52b0b332446a2ba46d4b97d926
+      internalID: -1532178495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_235
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 633
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9d28a61f9c564ab9ed8620c14aeb6
+      internalID: 679803797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_236
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 633
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dacd7673b1239540b6c0d2d7f37a953
+      internalID: -1406598205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_237
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 634
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe544eb61f6a3684ab7dee3295246648
+      internalID: 702085129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_238
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 634
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe29f31fc9cf6484d9b28f0310b2ab05
+      internalID: 59327063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_239
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 655
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194cc55423250f4e81f5d9c0a39f0a5
+      internalID: -902772092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_240
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 677
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed42b27ba3978104498c680949c4c6a3
+      internalID: -1921441940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_241
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 644
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f9b218b6526443912254e9babcdcb
+      internalID: 5516356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_242
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 640
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5cc3d459e26e4b86839646f1e4337
+      internalID: 1030022622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_243
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 597
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7598a13f03884694c66eaeb6e76fc
+      internalID: -1122575350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_244
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 571
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f2f92443bd573459980d568c8e9528
+      internalID: -1392073928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_245
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 581
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58440c3f712312345ac39ee0a856ba81
+      internalID: 1006116789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_246
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 601
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9db1b14d5165141a22b33bdeb9ade2
+      internalID: -1921841277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_247
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 529
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25135338, y: 0.54231864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868210e393bbec4199b9651c4fa1347
+      internalID: -952879107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_248
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 529
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.24005127, y: 0.55440927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2559952fee0fa6459d82acc821b7ef3
+      internalID: -2079482984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_249
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 530
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: 0.22875181, y: 0.536274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33d356e1c806443b914a55f8e48e6e
+      internalID: 1658150915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_250
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 531
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a735bc2188d894198f3636a0eaa155
+      internalID: -773086168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_251
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 564
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60d5937016c04428cc2b145f1a68d4
+      internalID: -687391116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_252
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 558
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bafc4fc9c1c4540a4ce5d6567b287a
+      internalID: 1392228663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_253
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 563
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46babf657803cb46a4efb23c9114469
+      internalID: -1422079855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_254
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 175
+        height: 128
+      alignment: 9
+      pivot: {x: 0.41714284, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec417519dd0a24ca1204fbc3194d76
+      internalID: -824996196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_255
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 444
+        width: 159
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45911947, y: 0.39200002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb3e2ac18325fa4f91f4c83502e236a
+      internalID: -1553533057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_256
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 509
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ae0551e31bef448893aef60d01915
+      internalID: 1299113010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_257
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 484
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47ef0d8c58c2343b27be42f9098883
+      internalID: -1689050557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_258
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 494
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c59f165c2b23d419b4a8e55f5ba411
+      internalID: 1799963156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_259
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 495
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ada4f238090b41a50818ab9c6f2e1
+      internalID: 1178501546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_260
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 495
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7d599f94322634d8028e084539ad63
+      internalID: -1896922521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_261
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 495
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3a28db4a6b3d43a6f9e7a4a9c899d
+      internalID: 208854762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_262
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 513
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec689838ef3f0364b98f83161270229f
+      internalID: -1720584842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_263
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 441
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d5059ddf397794e8bfe8532bfbd4d5
+      internalID: 334608995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_264
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 441
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85569ef185222ca428570c824b9b3050
+      internalID: 1891342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_265
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 441
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88382dfe2a835a4faef306e21091556
+      internalID: 819792697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_266
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 443
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad39d5f3bc4294996b381e1f9c249f
+      internalID: -1891365574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_267
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 476
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc676bc68de2e94ba202965de9b8120
+      internalID: 2106350993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_268
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 28
+        height: 85
+      alignment: 9
+      pivot: {x: 0.38106087, y: 0.52938414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd664bf05b7094c836729058be235a
+      internalID: 1642755839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_269
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 356
+        width: 28
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4478772, y: 0.5629538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605150c0c097bcd4a9ac8aed1aea39d7
+      internalID: 1840613985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_270
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 356
+        width: 28
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4478765, y: 0.5515076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fbb3a6e6b66714997d0a2e55186803
+      internalID: 1823894772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_271
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 356
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7db452c9f023e45836b83d7508960d
+      internalID: 806026280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_272
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 356
+        width: 28
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42149734, y: 0.56571007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd78d1bbea2bc84e877d340c2b288ea
+      internalID: 1480432383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_273
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 359
+        width: 46
+        height: 83
+      alignment: 9
+      pivot: {x: 0.46817282, y: 0.5485086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec4d86162d0694da49543e35af9d75
+      internalID: 571521042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_274
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 356
+        width: 45
+        height: 86
+      alignment: 9
+      pivot: {x: 0.36986253, y: 0.5595838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba9f98086ef7141975a93961a5f249
+      internalID: 215132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_275
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 357
+        width: 45
+        height: 85
+      alignment: 9
+      pivot: {x: 0.48235404, y: 0.54203814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994df8794bf3d914cb2a6f4624c795db
+      internalID: 78678735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_276
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 422
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f063812a2833a41a0bf239b6852961
+      internalID: -1286147960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_277
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 422
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a05dd6758f42469389175205c86ce
+      internalID: 607094515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_278
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 397
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705c197f0508f504da514e11d67afe48
+      internalID: 1540664535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_279
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 407
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a936b51c0d9947bd2714303f5fb61
+      internalID: -328696967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_280
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 408
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daec35512409ce438e977ccbbe5c6cb
+      internalID: 1878171820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_281
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 408
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba15371944a9e24da1f493bb9380b01
+      internalID: 155365034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_282
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 409
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3cd0a7a79088c4fa363ce8ecf0d0c4
+      internalID: 892782099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_283
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 426
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad755ac93c95d4ca98f9e51f987aad
+      internalID: -204280510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_284
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd5a39b7e9c71488b797643c21096d
+      internalID: -2089055561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_285
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a78bc8803735942a3de540d2018c06
+      internalID: 1649940214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_286
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 270
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203ce4e2203aa44ea8635d1f178bab0
+      internalID: 144513686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_287
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 270
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad6f6bba8bee78489749b57e0d536ad
+      internalID: -932285700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_288
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 270
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15970b6ea1910fd40829e886818fef8a
+      internalID: -452799097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_289
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 335
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b423155fc8ba32946907cf06684fa9c1
+      internalID: 1979370555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_290
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 334
+        width: 35
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3886501, y: 0.56591547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09f6f99684f8f48b424b4815fd01e3
+      internalID: 550054091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_291
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 187
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a011e28efca94a84d052bdb185185
+      internalID: 1622197954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_292
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 184
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4082332ba64118749adb9d34140bab4e
+      internalID: 528073314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: age1_293
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 248
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e33741e8da3a439a3974aaca818d4
+      internalID: 988948505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      age1_18: -713505484
+      age1_239: -902772092
+      age1_278: 1540664535
+      age1_75: 1382976557
+      age1_0: -522348645
+      age1_113: -1113005529
+      age1_230: 1463992115
+      age1_271: 806026280
+      age1_51: 1432700161
+      age1_175: 1608515203
+      age1_225: -1396332659
+      age1_209: 1015600341
+      age1_231: -329512203
+      age1_250: -773086168
+      age1_124: -1038299015
+      age1_36: 70382280
+      age1_11: 540522567
+      age1_58: 811454257
+      age1_16: 542072465
+      age1_169: 1395815136
+      age1_227: -844268284
+      age1_280: 1878171820
+      age1_15: 391971320
+      age1_88: -563164750
+      age1_98: -1685327501
+      age1_56: 873435377
+      age1_118: -1986822163
+      age1_100: -394193342
+      age1_77: -380241874
+      age1_150: -315520499
+      age1_157: -1753317151
+      age1_246: -1921841277
+      age1_78: -1671937715
+      age1_149: 1103778397
+      age1_270: 1823894772
+      age1_222: 745504730
+      age1_224: -1632288155
+      age1_76: -651246231
+      age1_134: 1227108070
+      age1_248: -2079482984
+      age1_205: 1389265159
+      age1_228: -646874720
+      age1_177: -110159908
+      age1_263: 334608995
+      age1_66: 104321965
+      age1_288: -452799097
+      age1_193: -193851521
+      age1_108: -1066135303
+      age1_188: 507556643
+      age1_207: 828837259
+      age1_110: 660171629
+      age1_96: -484583602
+      age1_185: 1951840108
+      age1_94: -107775048
+      age1_164: 1379794866
+      age1_40: 1710231194
+      age1_147: -92664892
+      age1_37: 1450285833
+      age1_28: -1016798717
+      age1_83: 229739911
+      age1_116: -1460051953
+      age1_153: -890461166
+      age1_70: -986834630
+      age1_87: 677142976
+      age1_235: 679803797
+      age1_62: -1211574799
+      age1_244: -1392073928
+      age1_81: -678091317
+      age1_68: -2044182931
+      age1_267: 2106350993
+      age1_204: 1312488309
+      age1_112: -2126601796
+      age1_165: -1747408574
+      age1_99: 1088489629
+      age1_285: 1649940214
+      age1_6: -1352714390
+      age1_282: 892782099
+      age1_105: 1029657627
+      age1_151: -743727270
+      age1_45: -877708612
+      age1_60: -1751321958
+      age1_120: -614102504
+      age1_272: 1480432383
+      age1_156: -1059436948
+      age1_7: 1461840310
+      age1_171: -1146351554
+      age1_201: 1423643992
+      age1_260: -1896922521
+      age1_130: -1028107523
+      age1_132: -730389377
+      age1_69: 726788410
+      age1_121: 939351476
+      age1_242: 1030022622
+      age1_223: 647180212
+      age1_127: -455224390
+      age1_42: -815135917
+      age1_8: -1717698393
+      age1_31: 1678272346
+      age1_30: -1167272377
+      age1_189: -712268512
+      age1_138: 221563829
+      age1_55: 1488723601
+      age1_29: -601312939
+      age1_163: -1489397042
+      age1_208: 1838544360
+      age1_286: 144513686
+      age1_279: -328696967
+      age1_220: -1518657437
+      age1_255: -1553533057
+      age1_196: 652565667
+      age1_109: 1749201285
+      age1_135: 1477536617
+      age1_186: 667096586
+      age1_262: -1720584842
+      age1_238: 59327063
+      age1_34: -1871061200
+      age1_249: 1658150915
+      age1_43: 439747774
+      age1_44: 743504744
+      age1_117: -1835794528
+      age1_90: -2142202190
+      age1_197: 1499954656
+      age1_212: 255682219
+      age1_182: 794249771
+      age1_128: -405431133
+      age1_233: 1414933998
+      age1_160: -295411519
+      age1_257: -1689050557
+      age1_243: -1122575350
+      age1_252: 1392228663
+      age1_218: 2068158219
+      age1_91: -1690457907
+      age1_131: -299295444
+      age1_104: -1744539812
+      age1_142: -468565658
+      age1_269: 1840613985
+      age1_152: -774237154
+      age1_71: -867946766
+      age1_3: 1050637630
+      age1_54: -32206649
+      age1_200: 1899023027
+      age1_195: 1972145599
+      age1_221: -700259023
+      age1_119: -663963196
+      age1_137: 1745949754
+      age1_283: -204280510
+      age1_1: 642014680
+      age1_199: 123256567
+      age1_254: -824996196
+      age1_107: 1562835068
+      age1_125: -525485314
+      age1_166: 25491409
+      age1_183: -1475325635
+      age1_146: 1760360127
+      age1_247: -952879107
+      age1_50: 1702888292
+      age1_73: -1865861402
+      age1_95: 1411790804
+      age1_19: -769554069
+      age1_241: 5516356
+      age1_187: 1023022770
+      age1_24: -1718009620
+      age1_111: 2116444773
+      age1_159: 290478639
+      age1_17: 617105674
+      age1_259: 1178501546
+      age1_5: 697040478
+      age1_268: 1642755839
+      age1_12: 524830460
+      age1_114: 540520164
+      age1_123: 1364753609
+      age1_172: 585666851
+      age1_136: 1327129419
+      age1_211: 1442029446
+      age1_258: 1799963156
+      age1_167: -1935404066
+      age1_210: 161771027
+      age1_190: -258065205
+      age1_47: -1519200255
+      age1_161: -1522454161
+      age1_139: 196950956
+      age1_194: 1774682889
+      age1_141: -447050875
+      age1_173: 1189461709
+      age1_213: 1911698368
+      age1_265: 819792697
+      age1_202: -697906099
+      age1_273: 571521042
+      age1_48: 205430984
+      age1_59: -1599396738
+      age1_49: 1073586627
+      age1_82: 904365040
+      age1_180: -1052011094
+      age1_126: 757034085
+      age1_133: -277924268
+      age1_10: 1785037156
+      age1_93: -2121909580
+      age1_63: -338303914
+      age1_229: 1660354798
+      age1_27: -1386898113
+      age1_21: -2092450491
+      age1_32: -1756705454
+      age1_234: -1532178495
+      age1_256: 1299113010
+      age1_266: -1891365574
+      age1_158: -735596003
+      age1_264: 1891342
+      age1_23: -1850441123
+      age1_35: -657092284
+      age1_174: -9023070
+      age1_97: 1703915623
+      age1_20: 588192116
+      age1_206: 789920764
+      age1_287: -932285700
+      age1_181: 182275679
+      age1_253: -1422079855
+      age1_57: 217888175
+      age1_85: 820696508
+      age1_89: 337201082
+      age1_184: -924583159
+      age1_4: 1307296224
+      age1_64: 603426155
+      age1_292: 528073314
+      age1_101: -183239083
+      age1_275: 78678735
+      age1_14: -664812316
+      age1_240: -1921441940
+      age1_25: 210721131
+      age1_65: -762111220
+      age1_198: -1313326248
+      age1_276: -1286147960
+      age1_9: 1422918133
+      age1_274: 215132297
+      age1_86: 1662389174
+      age1_13: -2093492758
+      age1_115: 1821761824
+      age1_129: 446082361
+      age1_102: 314646
+      age1_148: -2108926345
+      age1_92: -1186651523
+      age1_170: -1410144489
+      age1_79: 305782285
+      age1_74: -369636703
+      age1_61: -1192204722
+      age1_22: 2038200545
+      age1_232: -1328660845
+      age1_251: -687391116
+      age1_203: 1077003555
+      age1_284: -2089055561
+      age1_219: 1780264429
+      age1_67: -1798275524
+      age1_84: 1322590515
+      age1_143: -408234695
+      age1_281: 155365034
+      age1_145: -611230083
+      age1_122: 1445730059
+      age1_277: 607094515
+      age1_38: -1167488590
+      age1_217: -1634888580
+      age1_41: 1647168041
+      age1_72: 165186817
+      age1_33: -1682175615
+      age1_80: -1785171609
+      age1_154: -1714271985
+      age1_237: 702085129
+      age1_290: 550054091
+      age1_162: -560795503
+      age1_226: -1495156373
+      age1_245: 1006116789
+      age1_52: -1211631937
+      age1_103: 565664084
+      age1_261: 208854762
+      age1_216: -234988131
+      age1_179: 703037643
+      age1_176: -1805125816
+      age1_214: -455426645
+      age1_168: 509922477
+      age1_46: 889884913
+      age1_144: 1520007328
+      age1_39: -1913926132
+      age1_192: -1836407192
+      age1_236: -1406598205
+      age1_191: -1145208306
+      age1_291: 1622197954
+      age1_289: 1979370555
+      age1_106: 1207111008
+      age1_26: -2024640865
+      age1_293: 988948505
+      age1_2: 1579069868
+      age1_215: 522601115
+      age1_178: -1943050920
+      age1_140: -619941358
+      age1_53: -1629494192
+      age1_155: -580445427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
